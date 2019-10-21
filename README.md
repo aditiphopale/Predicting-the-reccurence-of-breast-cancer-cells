@@ -1,7 +1,7 @@
 # Predicting-the-reccurence-of-breast-cancer-cells
 The target problem of the Breast cancer dataset is to predict whether the recurrence of the breast cancer cells will occur or not for the given observations depending on all other attributes provided in the dataset.
 
-The project for which the report is constructed is a Breast Cancer dataset which includes observations provided by the Oncology Institute. The dataset gives information about the cancer affected people including their age, the tumor size, grade of tumor etc. and provides information if the breast cancer cells reoccur or not for each observation. 
+The dataset is a Breast Cancer dataset which includes observations provided by the Oncology Institute. The dataset gives information about the cancer affected people including their age, the tumor size, grade of tumor etc. and provides information if the breast cancer cells reoccur or not for each observation. 
 
 Data Description: 
 The Breast Cancer dataset consists of a total of 287 observations and 10 attributes out of which 9 are independent variables and 1 being the target variable.
